@@ -3,7 +3,7 @@
 I am a student at Yale pursuing applications of AI/ML to drug discovery, disease, biochemistry, and beyond. Please reach out to connect or collaborate!
 :･ﾟ✧:･.☽˚｡･ﾟ✧:･.:
 
-[Email](ananya.krishna@yale.edu) |
+[Email](mailto:ananya.krishna@yale.edu) |
 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/ananya-krishna-a95116215/) |
 [X](https://x.com/ananyakrishna_)
 <!--
