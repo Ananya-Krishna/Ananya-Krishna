@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there! I'm Ananya.
 
+I am a student at Yale pursuing applications of AI/ML to drug discovery, disease, biochemistry, and beyond.
+:･ﾟ✧:･.☽˚｡･ﾟ✧:･.:
+
+#Connect with me
+[![LinkedIn](https://img.icons8.com/ios7/512/4D4D4D/linkedin.png)](https://www.linkedin.com/in/https://www.linkedin.com/in/ananya-krishna-a95116215/)
+[![X]([https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/768px-X_logo.jpg)]((https://x.com/ananyakrishna_))
 <!--
 **Ananya-Krishna/Ananya-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
