@@ -3,8 +3,8 @@
 I am a student at Yale pursuing applications of AI/ML to drug discovery, disease, biochemistry, and beyond. Please reach out to connect or collaborate!
 :･ﾟ✧:･.☽˚｡･ﾟ✧:･.:
 
-[Email](ananya.krishna@yale.edu)  |
-[LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/ananya-krishna-a95116215/)  |  
+[Email](ananya.krishna@yale.edu) |
+[LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/ananya-krishna-a95116215/) |
 [X](https://x.com/ananyakrishna_)
 <!--
 **Ananya-Krishna/Ananya-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
