@@ -1,6 +1,6 @@
 ## Hi there! I'm Ananya.
 
-I am a student at Yale pursuing applications of AI/ML to drug discovery, disease, biochemistry, and beyond. Please reach out to connect or collaborate!
+I am a student at Yale pursuing applications of AI/ML to drug discovery, biochemistry, adversarial robustness, explainability and beyond. Please reach out to connect or collaborate!
 :･ﾟ✧:･.☽˚｡･ﾟ✧:･.:
 
 [Email](mailto:ananya.krishna@yale.edu) |
